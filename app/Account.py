@@ -23,39 +23,73 @@ class Account:
 
 # Asset Classes
 class CashAccount(Account):
+    # checking account
+    # savings account
+    # money market account
     pass
 
 
 class InvestmentAccount(Account):
+    # stocks
+    # bonds
+    # mutual funds
+    # exchange traded funds (ETFs)
+    # Real Estate Invesment Trusts (REITs)
+    # cryptocurrency
     pass
 
 
 class RetirementAccount(Account):
+    # individual retirement account
+    # 401k, 403b
+    # roth ira
+    # pension plan
+    # health savings account
     pass
 
 
 class RealEstate(Account):
+    # primary residence
+    # rental property
+    # vacation home
+    # land
     pass
 
 
 class PersonalProperty(Account):
+    # vehicles
+    # jewelry
+    # art collections
+    # other collectibles
     pass
 
 
 class Receivable(Account):
+    # accounts receivable
+    # other receivables
     pass
 
 
 # Liability Classes
 class CurrentLiability(Account):
+    # credit card debt
+    # short-term loans
+    # utility bills
+    # rent or mortgage
     pass
 
 
 class LongTermLiability(Account):
+    # mortgage loans
+    # car loans
+    # student loans
+    # personal loans
     pass
 
 
 class OtherLiability(Account):
+    # taxes payable
+    # other payables
     pass
 
 
